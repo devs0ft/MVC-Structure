@@ -1,0 +1,11 @@
+{
+  "name": "Day-4",
+  "version": "1.0.0",
+  "description": "day 4",
+  "main": "index.js",
+  "author": "devs0ft",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
